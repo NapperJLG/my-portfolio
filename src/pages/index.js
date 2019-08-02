@@ -1,3 +1,8 @@
 import React from "react"
+import "../styles/global.css"
 
-export default () => <div>Hello world!</div>
+const Index = () => {
+  return <h1>Hello world</h1>
+}
+
+export default Index
